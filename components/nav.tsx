@@ -94,7 +94,7 @@ export default function Nav() {
                     <motion.div
                       transition={{ type: "spring" }}
                       layoutId="underline"
-                      className="absolute w-full h-full rounded-md left-0 bottom-0 bg-blue-300"
+                      className="absolute w-full h-full rounded-md left-0 bottom-0 bg-blue-400"
                     ></motion.div>
                   ) : null}
                 </MotionLink>
